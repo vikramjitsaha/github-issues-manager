@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "npm config": true,
+        "npm install": true,
+        "Test-Path": true,
+        "/^node -e \"require\\('semver'\\); console\\.log\\('ok'\\)\" 2>&1; Get-ChildItem \"C:\\\\Workspaces\\\\github-issues-manager\\\\node_modules\\\\semver\" \\| Select-Object -First 5$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
