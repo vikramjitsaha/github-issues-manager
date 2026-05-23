@@ -39,7 +39,7 @@ You can still use legacy `VITE_GITHUB_OWNER` and `VITE_GITHUB_REPO` when no allo
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
+Open [http://localhost:5173](http://localhost:7174)
 
 ### 4. Connect your repository
 
